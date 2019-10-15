@@ -1,0 +1,21 @@
+body {
+	font-family: sans-serif;
+}
+
+.sectie {
+	border: 1px solid blue;
+	background-size: cover;
+	padding: 30vh 3em;
+}
+.sectie--2 {
+	color: #fff;
+	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+}
+
+.sectie--4 {
+	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+}
+
+.sectie--6 {
+	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+}
