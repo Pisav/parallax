@@ -2,6 +2,9 @@ body {
 	font-family: sans-serif;
 }
 
+img {
+}
+
 .sectie {
 	border: 1px solid blue;
 	background-size: cover;
@@ -9,13 +12,19 @@ body {
 }
 .sectie--2 {
 	color: #fff;
-	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+
+	background-repeat: no-repeat;
+	background-image: url('https://www.venemaantiques.nl/galleries/natuur-landschap-1336617-en-max.jpg');
 }
 
 .sectie--4 {
-	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+
+	background-repeat: no-repeat;
+	background-image: url('https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/0/5/5/9200000083165503.jpg');
 }
 
 .sectie--6 {
-	background-image: url('https://www.merkur.de/bilder/2019/08/30/12960510/1293488064-donald-trump-schlechte-laune-frisur-usa-praesident-OXAgqYkszNG.jpg');
+	
+	background-repeat: no-repeat;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/2e/Gerard_van_Nijmegen_-_Zwitsers_landschap_met_waterval_-_BR0468_-_Rijksmuseum_Twenthe.jpg');
 }
